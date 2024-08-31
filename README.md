@@ -16,9 +16,8 @@ Key features of the website include:
   
 
 4. **Navbar**: A well-structured and responsive navbar ensures easy navigation across the website. It provides users with quick access to different sections, such as services, about us, contact, and more, contributing to a smooth and intuitive browsing experience.
-   ![image](https://github.com/user-attachments/assets/ebbaa646-ead3-4bc0-947c-09d1e896eef2)
+   ![image](https://github.com/user-attachments/assets/eb80c572-9de3-4c1e-8497-de44270ebb78)
 
-   
 
 5. **Footer**: The footer section of the website is designed to offer essential links, contact information, and social media icons, ensuring that users can easily find additional resources and stay connected with the healthcare provider.
    ![image](https://github.com/user-attachments/assets/6ef61c02-e481-449a-89df-19473dc7c426)
